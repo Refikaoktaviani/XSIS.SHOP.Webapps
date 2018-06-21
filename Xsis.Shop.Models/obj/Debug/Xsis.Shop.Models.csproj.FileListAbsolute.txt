@@ -1,0 +1,12 @@
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\Xsis.Shop.Models\bin\Debug\Xsis.Shop.Models.dll.config
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\Xsis.Shop.Models\bin\Debug\Xsis.Shop.Models.dll
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\Xsis.Shop.Models\bin\Debug\Xsis.Shop.Models.pdb
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\Xsis.Shop.Models\bin\Debug\EntityFramework.dll
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\Xsis.Shop.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\Xsis.Shop.Models\bin\Debug\EntityFramework.xml
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\Xsis.Shop.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\Xsis.Shop.Models\obj\Debug\Xsis.Shop.Models.csprojAssemblyReference.cache
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\Xsis.Shop.Models\obj\Debug\Xsis.Shop.Models.csproj.CoreCompileInputs.cache
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\Xsis.Shop.Models\obj\Debug\Xsis.Shop.Models.csproj.CopyComplete
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\Xsis.Shop.Models\obj\Debug\Xsis.Shop.Models.dll
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\Xsis.Shop.Models\obj\Debug\Xsis.Shop.Models.pdb

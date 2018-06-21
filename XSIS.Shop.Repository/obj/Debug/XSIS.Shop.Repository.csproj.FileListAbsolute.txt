@@ -1,0 +1,17 @@
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\obj\Debug\XSIS.Shop.Repository.csprojAssemblyReference.cache
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\obj\Debug\XSIS.Shop.Repository.csproj.CoreCompileInputs.cache
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\bin\Debug\XSIS.Shop.Repository.dll.config
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\bin\Debug\XSIS.Shop.Repository.dll
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\bin\Debug\XSIS.Shop.Repository.pdb
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\bin\Debug\EntityFramework.dll
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\bin\Debug\Xsis.Shop.Models.dll
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\bin\Debug\XSIS.Shop.ViewModel.dll
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\bin\Debug\Xsis.Shop.Models.pdb
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\bin\Debug\Xsis.Shop.Models.dll.config
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\bin\Debug\XSIS.Shop.ViewModel.pdb
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\bin\Debug\EntityFramework.xml
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\obj\Debug\XSIS.Shop.Repository.csproj.CopyComplete
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\obj\Debug\XSIS.Shop.Repository.dll
+D:\Materi XSIS\17\XSIS.SHOP.Webapps\XSIS.Shop.Repository\obj\Debug\XSIS.Shop.Repository.pdb
